@@ -1,0 +1,37 @@
+{
+  "id": "majsternya-popuska",
+  "title": "Майстерня Попуска",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+    "authors": [
+    {
+      "name": "MEG",
+      "url": "https://github.com/Meg-Tornborn/majsternya-popuska",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "majsternya",
+      "label": "Майстерня",
+      "path": "packs/majsternya",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "download": "https://github.com/Meg-Tornborn/majsternya-popuska/releases/download/1.0/stargazer-class.zip",
+  "manifest": "https://github.com/Meg-Tornborn/majsternya-popuska/releases/latest/download/module.json",
+  "url": "https://github.com/Meg-Tornborn/majsternya-popuska/",
+  "description": ""
+}
