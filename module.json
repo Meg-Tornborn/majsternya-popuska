@@ -1,15 +1,26 @@
 {
   "id": "majsternya-popuska",
   "title": "Майстерня Попуска",
+<<<<<<< HEAD
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
+=======
+  "version": "1.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+>>>>>>> 3cb3c31 (ver 1.1.0)
   },
   "flags": {
     "canUpload": true
   },
+<<<<<<< HEAD
     "authors": [
+=======
+  "authors": [
+>>>>>>> 3cb3c31 (ver 1.1.0)
     {
       "name": "MEG",
       "url": "https://github.com/Meg-Tornborn/majsternya-popuska",
@@ -28,9 +39,38 @@
       },
       "system": "dnd5e",
       "flags": {}
+<<<<<<< HEAD
     }
   ],
   "download": "https://github.com/Meg-Tornborn/majsternya-popuska/releases/download/1.0/stargazer-class.zip",
+=======
+    },
+    {
+      "name": "scenes",
+      "label": "Карти",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "characters",
+      "label": "Персонажі",
+      "path": "packs/characters",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "download": "https://github.com/Meg-Tornborn/majsternya-popuska/releases/download/1.0.1/majsternya-popuska.zip",
+>>>>>>> 3cb3c31 (ver 1.1.0)
   "manifest": "https://github.com/Meg-Tornborn/majsternya-popuska/releases/latest/download/module.json",
   "url": "https://github.com/Meg-Tornborn/majsternya-popuska/",
   "description": ""
